@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "New Client Local Blog",
+  "name_for_model": "new-client_local_blog",
+  "description_for_human": "Local blog for New Client, a general business business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from New Client. Use this to answer questions about local general business services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "/favicon.ico",
+  "contact_email": "",
+  "legal_info_url": "/privacy"
+}
