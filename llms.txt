@@ -1,0 +1,29 @@
+# New Client - Local Blog
+
+> New Client is a general business serving , . This blog publishes weekly local SEO, GEO, and AEO content to help residents find trusted local services.
+
+## About
+
+- **Business:** New Client
+- **Industry:** general business
+- **Location:** , 
+- **Website:** 
+- **Blog:** https://localblog./blog/
+
+## Topics Covered
+
+This blog covers local service topics including: 
+
+## Content Schedule
+
+- Monday: SEO articles targeting local search keywords
+- Wednesday: Local authority content (best-of lists, how-to guides, cost guides)
+- Thursday: GEO and AEO content optimized for AI search engines
+
+## Sitemap
+
+https://localblog./sitemap.xml
+
+## Contact
+
+For questions about New Client, visit 
