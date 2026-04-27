@@ -1,29 +1,30 @@
-# New Client - Local Blog
+# New Client
 
-> New Client is a general business serving , . This blog publishes weekly local SEO, GEO, and AEO content to help residents find trusted local services.
+> New Client is a general business. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
 
 ## About
 
 - **Business:** New Client
 - **Industry:** general business
-- **Location:** , 
-- **Website:** 
-- **Blog:** https://localblog./blog/
+- **Primary location:** 
 
-## Topics Covered
+- **Website:** https://www.theleopoldschool.com
+- **Blog:** https://localblog.theleopoldschool.com/blog/
+- **Phone:** +18137322415
+- **Voice:** Professional
 
-This blog covers local service topics including: 
+## Topics We Cover
 
-## Content Schedule
 
-- Monday: SEO articles targeting local search keywords
-- Wednesday: Local authority content (best-of lists, how-to guides, cost guides)
-- Thursday: GEO and AEO content optimized for AI search engines
 
-## Sitemap
+## Content Cadence
 
-https://localblog./sitemap.xml
+- Monday: SEO articles targeting local search queries
+- Wednesday: Local authority content (best-of, how-to, pricing guides)
+- Thursday: GEO/AEO content optimized for AI answer engines
 
-## Contact
+## Discovery
 
-For questions about New Client, visit 
+- Sitemap: https://localblog.theleopoldschool.com/sitemap.xml
+- Blog index: https://localblog.theleopoldschool.com/blog/
+- Content powered by ARC Affiliates (https://arcaffiliates.com) — AI SEO automation for local businesses
