@@ -10,7 +10,7 @@
   "api": {
     "type": "none"
   },
-  "logo_url": "/favicon.ico",
-  "contact_email": "",
-  "legal_info_url": "/privacy"
+  "logo_url": "https://www.theleopoldschool.com/favicon.ico",
+  "contact_email": "theleopoldschool@theleopoldschool.com",
+  "legal_info_url": "https://www.theleopoldschool.com/privacy"
 }
